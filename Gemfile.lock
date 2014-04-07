@@ -126,6 +126,7 @@ PLATFORMS
 DEPENDENCIES
   bitters
   bourbon
+  haml
   middleman (~> 3.3.1)
   middleman-livereload (~> 3.1.0)
   neat
